@@ -1,11 +1,10 @@
-🏠 House Price Prediction Using Machine Learning
+ House Price Prediction Using Machine Learning
 A Machine Learning project that predicts house prices using the
 California Housing Dataset and Linear Regression.  
 This project demonstrates the complete machine learning workflow
-including data loading, preprocessing, model training, evaluation, and
-visualization using Python.
+including data loading.
 ---
-📌 Project Overview
+Project Overview
 House price prediction is a common regression problem in machine
 learning.  
 In this project, a Linear Regression model is trained to predict
